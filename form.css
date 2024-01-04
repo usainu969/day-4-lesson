@@ -1,0 +1,10 @@
+label{
+    display: block;
+    margin: 15px;
+}
+.color, .pitha{
+    display: flex;
+}
+.buton{
+    border: 20px;
+}
